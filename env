@@ -1,0 +1,5 @@
+DISCORD_TOKEN=OTk4ODIzMjk0NDExMjE4OTg2.GLKjjJ.AjvHHdSWIKBQXwzl6WzUb7hs5qBMqdWVh7wxkY
+EDDIEBOT_MONGO_CONNECTION_STRING=mongodb+srv://<Malik>:<xsS4uLafgV5C4jkp>@cluster0.rs9krvg.mongodb.net/test
+DEBUG_HOOK=
+HOME_GUILD=https://discord.com/channels/766559713487486976
+NODE_ENV="development"
