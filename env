@@ -1,4 +1,4 @@
-DISCORD_TOKEN=OTk4ODIzMjk0NDExMjE4OTg2.GLKjjJ.AjvHHdSWIKBQXwzl6WzUb7hs5qBMqdWVh7wxkY
+DISCORD_TOKEN=OTk4ODIzMjk0NDExMjE4OTg2.GqrAye.u_HKhl3J3NkE0j_bOzD4apgFWAfye2nffndrqM
 EDDIEBOT_MONGO_CONNECTION_STRING=mongodb://Malik:4ZrWJIg8QVCQDCq7@ac-ht7hidt-shard-00-00.l9umusa.mongodb.net:27017,ac-ht7hidt-shard-00-01.l9umusa.mongodb.net:27017,ac-ht7hidt-shard-00-02.l9umusa.mongodb.net:27017/?ssl=true&replicaSet=atlas-i9lsk5-shard-0&authSource=admin&retryWrites=true&w=majority
 DEBUG_HOOK=
 HOME_GUILD=
